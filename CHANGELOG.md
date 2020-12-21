@@ -15,3 +15,13 @@ Első fejlesztések.
 - Botinformációk
 - Fejlesztési napló
 - Elérhetőségek
+
+---
+
+## v1.0.1 — Dec. 21, 2020
+
+Második fejlesztések.
+
+**Hibajavítások:**
+- Szövegek fríssítve
+- Moderátor parancsok átmenetileg törölve lettek!
